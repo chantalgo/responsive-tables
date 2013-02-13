@@ -5,8 +5,8 @@ Our solution for responsive tables requires two included files (both linked on t
 
 The JS will help us create some new elements on small devices, so we don't have to modify our table markup on the page. The CSS applies the requisite positioning and overflow styles to make the new elements work.
 
-  /* Attach the Table CSS and Javascript */
+  `/* Attach the Table CSS and Javascript */
   <link rel="stylesheet" href="responsive-tables.css">
-  <script src="stylesheet" href="responsive-tables.js"</script>
+  <script src="stylesheet" href="responsive-tables.js"</script>`
 
 
